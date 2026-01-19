@@ -1,4 +1,5 @@
 # Yanbo (Aaron) Zhao
+<img src="./profile.jpg" alt="Profile photo" width="180" style="border-radius: 50%;" />
 
 Computer Science junior at UT Austin focused on backend systems, software engineering, and building reliable, production-oriented applications.
 
