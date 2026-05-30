@@ -1,95 +1,142 @@
 # Yanbo (Aaron) Zhao
+
 <img src="./profile.png" alt="Profile photo" width="280" style="border-radius: 90%;" />
 
-Computer Science junior at UT Austin focused on backend systems, software engineering, and building reliable, production-oriented applications.
+Computer Science student at The University of Texas at Austin focused on software engineering, AI-powered applications, backend systems, and real-world business software.
 
 ---
 
 ## About Me
 
-I am a Computer Science undergraduate at **The University of Texas at Austin**, pursuing a **B.S. in Computer Science** with a **minor in Statistics and Data Science**.
+I am pursuing a **B.S. in Computer Science** at **The University of Texas at Austin** with a **minor in Statistics and Data Science**.
 
-I am particularly interested in **backend systems, data-driven applications, and software engineering in real-world production environments**.  
-Through internships and personal projects, I have gained hands-on experience across the full software development lifecycle—from requirements analysis to implementation, testing, and deployment.
+I enjoy building practical software that solves real-world problems. My interests span backend engineering, full-stack development, AI-powered applications, database systems, and business workflow automation. Through internships and independent projects, I have gained experience designing, developing, deploying, and maintaining production-oriented software systems.
 
 Currently focused on:
-- Core CS foundations (Algorithms, Operating Systems, Systems)
-- Backend & full-stack software engineering
-- Building scalable, data-driven applications
+
+* Software Engineering & Backend Systems
+* AI Applications & LLM Integration
+* Database Design & Business Applications
+* Full-Stack Development
+* Scalable, Data-Driven Systems
 
 ---
 
 ## Projects
 
-### 🔹 Resonify — Artist & Concert Database Platform (Team Project)
-**Tech stack:** Java / REST APIs / PostgreSQL / Docker  
-- Built a full-stack, data-driven web application aggregating **300+ artists and venues**
-- Designed and implemented **RESTful APIs** and backend data models to support search, filtering, and ranking
-- Enabled scalable data access and containerized deployment for maintainability
+### 🔹 AI Resume Match Analyzer
+
+**Tech Stack:** Python / FastAPI / Google Gemini API / PyPDF2 / HTML / CSS / JavaScript / Render
+
+* Built an AI-powered web application that evaluates resumes against job descriptions and generates skill match scores
+* Implemented PDF parsing, skill extraction, normalization, and gap analysis to identify missing qualifications
+* Integrated Google's Gemini API to generate personalized resume improvement recommendations
+* Designed, deployed, and maintained a publicly accessible application on Render
+
+**GitHub:** https://github.com/ybz777/resume-match-analyzer
 
 ---
 
-### 🔹 Genero File Browsing Dialog (Internship – Four Js Development Tools)
-**Tech stack:** Genero BDL / Enterprise Systems  
-- Developed a reusable file navigation component for enterprise applications
-- Improved usability while reducing duplicated file-handling logic across internal systems
-- Designed for seamless integration into **mission-critical production systems**
+### 🔹 Multi-Location Retail Inventory Management System
+
+**Tech Stack:** Python / FastAPI / SQLAlchemy / SQLite / Jinja2 / HTML / CSS / JavaScript / Render
+
+* Built a web-based inventory management platform inspired by my aunt's clothing retail business
+* Developed inventory tracking across multiple stores and warehouse locations
+* Implemented product management, stock transfers, inventory adjustments, low-stock alerts, and transaction auditing
+* Designed a centralized dashboard providing real-time inventory visibility and business analytics
+* Deployed the application publicly using Render
+
+**GitHub:** https://github.com/ybz777/retail-inventory-management-system
+
+---
+
+### 🔹 Resonify — Artist & Concert Database Platform (Team Project)
+
+**Tech Stack:** Java / REST APIs / PostgreSQL / Docker
+
+* Built a full-stack web application aggregating 300+ artists and venues
+* Designed RESTful APIs and backend data models supporting search, filtering, and ranking
+* Enabled scalable data access and containerized deployment
 
 ---
 
 ### 🔹 Genero Order Processing Application (Internship – Four Js Development Tools)
-**Tech stack:** Genero BDL / SQL / Email Integration  
-- Built an internal order processing system to automate a paper-based licensing workflow
-- Implemented structured input validation to ensure data integrity across request types
-- Reduced manual errors and processing time through automation
+
+**Tech Stack:** Genero BDL / SQL / Email Integration
+
+* Built an internal order processing system automating a paper-based licensing workflow
+* Implemented validation mechanisms ensuring data integrity
+* Reduced manual processing effort and operational errors
 
 ---
 
-### 🔹 Weather Forecasting App
-**Tech stack:** Java / External APIs / JSON  
-- Built a Java-based application integrating external weather and geolocation APIs
-- Implemented real-time data retrieval and structured JSON parsing
-- Focused on clean API integration and robust error handling
+### 🔹 Genero File Browsing Dialog (Internship – Four Js Development Tools)
+
+**Tech Stack:** Genero BDL / Enterprise Systems
+
+* Developed a reusable file navigation component for enterprise applications
+* Improved usability and reduced duplicated file-handling logic
+* Designed for integration into mission-critical production systems
 
 ---
 
 ## Experience
 
-### Application Development Intern — Four Js Development Tools  
+### Application Development Intern — Four Js Development Tools
+
 **June 2025 – August 2025**
-- Built and maintained backend-driven enterprise applications replacing manual business workflows
-- Collaborated with a **German international engineering team** to translate business requirements into production-ready features
-- Contributed across the full SDLC: requirements analysis, implementation, testing, and deployment
+
+* Built and maintained enterprise software solutions replacing manual business workflows
+* Collaborated with an international engineering team to deliver production-ready features
+* Participated throughout the SDLC including requirements analysis, implementation, testing, debugging, and deployment
+* Developed solutions involving Genero BDL, SQL, business process automation, and enterprise application development
 
 ---
 
-### YouTube Content Creator  
+### YouTube Content Creator
+
 **April 2020 – Present**
-- Produced **60+ technical aviation videos** for a 3,100+ subscriber audience
-- Translated complex engineering and systems concepts into accessible explanations
-- Demonstrated strong technical communication and audience-aware storytelling skills
+
+* Produced 60+ aviation and technical content videos for an audience of 3,100+ subscribers
+* Translated complex engineering concepts into accessible explanations
+* Developed strong communication, presentation, and technical storytelling skills
 
 ---
 
 ## Skills
 
-- **Programming Languages:** Java, Python, C, SQL, IBM Informix, R  
-- **Software Engineering:** Backend & Full-Stack Development, REST API Design, System Integration  
-- **Databases:** PostgreSQL, SQLite, Relational Data Modeling  
-- **Tools & Platforms:** Docker, Git, Linux  
-- **Frontend & Testing:** React.js, Mocha.js  
-- **Languages:** Mandarin Chinese (native), English (fluent), German (conversational)
+### Programming Languages
 
----
+Python, Java, SQL, IBM Informix, R, C
 
-## Leadership & Community
+### AI & Machine Learning
 
-- **UT Student Government – International Student Agency**  
-  Outreach Coordinator (Oct 2023 – May 2024)  
-  - Led outreach initiatives connecting international students with campus resources
+Prompt Engineering, LLM Integration, Google Gemini API, AI Workflow Development, k-Nearest Neighbors (kNN), Decision Trees, Naïve Bayes, Model Evaluation, Cross-Validation
 
-- **Association for Computing Machinery (ACM), UT Austin**  
-  Active Member (Oct 2023 – Present)
+### Software Engineering
+
+Backend Development, Full-Stack Development, REST API Design, API Integration, System Integration, CRUD Application Development, Business Workflow Automation
+
+### Web Technologies
+
+FastAPI, HTML, CSS, JavaScript, Jinja2, Responsive Web Applications
+
+### Databases
+
+SQLAlchemy, SQLite, PostgreSQL, Relational Database Design, Data Modeling
+
+### Cloud & Tools
+
+Git, GitHub, Render, Docker, Linux
+
+### Data Analysis
+
+Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Descriptive Statistics
+
+### Languages
+
+Mandarin Chinese (Native), English (Fluent), German (Conversational)
 
 ---
 
@@ -101,7 +148,6 @@ Currently focused on:
 
 ## Contact
 
-- GitHub: https://github.com/ybz777  
-- LinkedIn: https://www.linkedin.com/in/aaron-zhao-8838aa2a1/  
-- Email: aaron.zhao.a.z@gmail.com
-
+* GitHub: https://github.com/ybz777
+* LinkedIn: https://www.linkedin.com/in/aaron-zhao-8838aa2a1/
+* Email: [aaron.zhao.a.z@gmail.com](mailto:aaron.zhao.a.z@gmail.com)
